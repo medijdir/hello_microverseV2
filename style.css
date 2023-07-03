@@ -1,3 +1,5 @@
 h1 {
   color: rgba(255, 0, 0, 0.532);
+  display: flex;
+  justify-content: center;
 }
