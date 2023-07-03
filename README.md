@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-  <h3><b> Hello Microverse Project</b></h3>
+  <h1><b> Hello Microverse Project</b></h1>
 </div>
 
 # 📗 Table of Contents
