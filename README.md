@@ -15,6 +15,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Deployment](#deployment)
+- [💻 Live demo](#live-demo)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -87,6 +88,8 @@ Live Preview on Visual Studio Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻Live demo <a name="live-demo"></a>
+-[] Live demo: [use this link](https://medijdir.github.io/hello_microverseV2/)
 
 ## 👥 Authors <a name="authors"></a>
 
